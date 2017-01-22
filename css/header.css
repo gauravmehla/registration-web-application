@@ -1,0 +1,131 @@
+body 
+{
+	/*background-image:url(../img/bg1.png);*/
+    background: #252525;
+	width: 98%;
+    height: 87%;
+    background-size: cover;
+}
+
+.kitm_logo
+{
+	position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.mid_content h1
+{
+	color: #7D0202;
+    position: absolute;
+    top: 170px;
+    left: 513px;
+    font-family:sans-serif;
+}
+
+#register_button{
+    padding: 6px;
+    width: 117px;
+    background: #7D0202;
+    position: absolute;
+    top: 148px;
+    left: 946px;
+    border: 3px solid #F1B216;
+    border-radius: 1%;
+    border-style: outset;
+}
+
+.button{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 7px;
+    left: 7px;
+    text-align: center;
+}
+
+
+
+#search_button{
+    padding: 6px;
+    width: 117px;
+    background: #7D0202;
+    position: absolute;
+    top: 148px;
+    left: 1110px;
+    border: 3px solid #F1B216;
+    border-radius: 1%;
+    border-style: outset;
+}
+
+#logout_button{
+    padding: 6px;
+    width: 117px;
+    background: #7D0202;
+    position: absolute;
+    top: 54px;
+    left: 1110px;
+    border: 3px solid #F1B216;
+    border-radius: 1%;
+    border-style: outset;
+}
+
+.fiesta
+{
+    color: white;
+    position: absolute;
+    top: 250px;
+    left: 390px;
+    font-size: 56px;
+    font-family: sans-serif;
+}
+
+.develop
+{
+    color: #BF0000;
+    position: absolute;
+    top: 354px;
+    left: 220px;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+.date 
+{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    position: absolute;
+    left: 438px;
+    top: 446px;
+}
+
+.address
+{
+    color: #D2962E;
+    position: absolute;
+    top: 546px;
+    left: 342px;
+    font-size: 19px;
+}
+
+.info
+{
+    color: #D2962E;
+    position: absolute;
+    top: 579px;
+    left: 313px;
+    font-size: 19px;
+}
+
+.setting_img
+{
+   height: 185px;
+    width: 190px;
+    position: absolute;
+    top: 220px;
+    left: 99px;
+    -webkit-transform: rotate(-82deg); 
+}
